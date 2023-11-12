@@ -1,4 +1,4 @@
-![Technologies and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Technologies and Development](https://github.com/marwaoneis/marwaoneis/blob/main/github-header-image.png)
 ### Hi there 👋, Marwa Oneis
 I'm Marwa, a passionate frontend developer based in Lebanon. Armed with a degree in Computer Engineering, I've been crafting user-centric web experiences for the past two years.
 

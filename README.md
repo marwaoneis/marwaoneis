@@ -1,4 +1,4 @@
-![Technologies and Development](https://github.com/marwaoneis/marwaoneis/blob/main/github-header-image.png)
+![Technologies and Development](https://github.com/marwaoneis/marwaoneis/blob/main/mygithub-header-image.png)
 
 ### Hi there 👋, I'm Marwa
 A passionate frontend developer based in Lebanon. Armed with a degree in Computer Engineering, I've been crafting user-centric web experiences for the past two years.

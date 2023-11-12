@@ -1,12 +1,11 @@
-### Hi there 👋, Marwa Oneis
-#### Technologies and Development
 ![Technologies and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+### Hi there 👋, Marwa Oneis
 I'm Marwa, a passionate frontend developer based in Lebanon. Armed with a degree in Computer Engineering, I've been crafting user-centric web experiences for the past two years.
 
 🚀 I'm not just a developer; I'm a perpetual student, always hungry for the next challenge and eager to dive into new technologies that push the boundaries of what's possible on the web.
 
-Skills: JS / JAVA / NODE JS / PHP / PYTHON / PUG / HTML / CSS
+## Skills and Experience
+ JS / JAVA / NODE JS / PHP / PYTHON / PUG / HTML / CSS
 
 - 🌱 I’m currently learning to become a full-stack web developer, exploring the realms of backend development and server-side technologies. 
 - 📫 How to reach me: marwa.oneis22@gmail.com 

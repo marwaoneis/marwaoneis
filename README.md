@@ -6,10 +6,9 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 🚀 I'm not just a developer; I'm a perpetual student, always hungry for the next challenge and eager to dive into new technologies that push the boundaries of what's possible on the web.
 
 ## Skills and Experience
- JS / JAVA / NODE JS / PHP / PYTHON / PUG / HTML / CSS
+ JavaScript / Java / Node.js / PHP / Python / Pug / HTML / CSS / React / Flutter / Laravel / Dart / MongoDB
 
 - 🌱 I’m currently learning to become a full-stack web developer, exploring the realms of backend development and server-side technologies. 
-- 📫 How to reach me: marwa.oneis22@gmail.com 
 - ⚡ Fun fact: did you know that my code is powered by copious amounts of coffee? 
 
 

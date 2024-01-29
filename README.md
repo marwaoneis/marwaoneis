@@ -67,9 +67,10 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 
 <p align="left"> <a href="https://www.linkedin.com/in/marwaoneis/"><img align="left" src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/linkedin.svg" alt="Marwa | LinkedIn" width="30px"/></a> <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/github.svg" alt="Marwa | Github" width="30px"/></a> <a href="https://www.instagram.com/marwaoneis/"><img align="left" src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/instagram.svg" alt="Marwa | Instagram" width="30px"/></a> </p>
 
+
 # Stats <img src="assets/stats.gif" width="40">
-<p align="center">
-   <table>
+<p>
+   <table align="center">
       <tr>
        <th>Profile stats  </th>
        <th>Language Contribution</th>

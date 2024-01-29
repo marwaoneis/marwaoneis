@@ -11,33 +11,82 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 - 🌱 I’m currently learning to become a full-stack web developer, exploring the realms of backend development and server-side technologies. 
 - ⚡ Fun fact: did you know that my code is powered by copious amounts of coffee? 
 
-## Worked with:
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<!-- Jira -->
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
-<img src="https://d33wubrfki0l68.cloudfront.net/440eab0e0067a780b31c30b775d4a6aeb45bb684/addc7/assets/images/tool-icons/slack.png" alt="Slack logo" style="width:40px">
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/64/asana_logo_icon_167830.png">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&style=flat" />
-<img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />  
-</p>
+# Tools and Languages <img src="assets/409-tool-outline.gif" width="40">
 
-## Connect with me:
+<h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
+<div style="display:flex"> 
+<img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-3670A0?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  
+</div>
+<hr>
+
+<h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
+<div style="display:flex"> 
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"> 
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%4DB33D.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+<hr>
+
+<h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/> - <img height="20px" src="https://img.shields.io/badge/Library-505558"/></h3>
+<div style="display:flex"> 
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</div>
+<hr>
+<h3><img height="20px" src="https://img.shields.io/badge/Platform-487088"/></h3>
+<div style="display:flex"> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"> 
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+</div>
+<hr>
+
+<h3><img height="20px" src="https://img.shields.io/badge/Tool-6c598f"/></h3>
+<div style="display:flex"> 
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/jira.svg?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+<hr>
+
+# Socials <img src="assets/hello.gif" width="40">
+
+<p align="left"> <a href="https://www.github.com/marwaoneis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwaoneis/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/marwaoneis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwaoneis/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Murf_y" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwaoneis/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+# Stats <img src="assets/stats.gif" width="40">
 <p align="center">
-  <a href="https://github.com/marwaoneis">
-    <img src="https://user-images.githubusercontent.com/marwaoneis/marwaoneis/github-icon-colorful.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.linkedin.com/in/marwaoneis/">
-    <img src="https://user-images.githubusercontent.com/marwaoneis/marwaoneis/linkedin-icon-colorful.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.instagram.com/marwaoneis/">
-    <img src="https://user-images.githubusercontent.com/marwaoneis/marwaoneis/instagram-icon-colorful.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://twitter.com/MarwaGOneis">
-    <img src="https://user-images.githubusercontent.com/marwaoneis/marwaoneis/twitter-icon-colorful.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px">
-  </a>
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Marwa :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=marwaoneis&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true"> </td>
+       <td><img alt="Marwa :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaoneis&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"> </td>
+     </tr>
+   </table>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwaoneis)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marwaoneis&show_icons=true&locale=en)
 
+<b>Top Repositories</b>
+
+<p align="center">
+<div width="100%" align="center"><a href="https://github.com/marwaoneis/med-connect" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Murf-y&repo=med-connect&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en" /></a></div><br />
+<div width="100%" align="center"><a href="https://github.com/marwaoneis/task-manager-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marwaoneis&repo=task-manager-project&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en" /></a></div>
+</p>
+<br /><br /><br /><br /><br /><br />

@@ -43,6 +43,7 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Platform-487088"/></h3>

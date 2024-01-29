@@ -78,8 +78,8 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
        <th>Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Marwa :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=marwaoneis&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true"> </td>
-       <td><img alt="Marwa :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaoneis&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"> </td>
+       <td><img alt="Marwa :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=marwaoneis&show_icons=true&hide=issues,&count_private=true&title_color=9F2B68&text_color=ffffff&icon_color=9F2B68&bg_color=171717&hide_border=true&show_icons=true"> </td>
+       <td><img alt="Marwa :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaoneis&langs_count=10&title_color=9F2B68&text_color=ffffff&icon_color=9F2B68&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"> </td>
      </tr>
    </table>
 </p>
@@ -88,7 +88,7 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 <b>Top Repositories</b>
 
 <p align="center">
-<div width="100%" align="center"><a href="https://github.com/marwaoneis/med-connect" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Murf-y&repo=med-connect&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en" /></a></div><br />
+<div width="100%" align="center"><a href="https://github.com/marwaoneis/med-connect" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marwaoneis&repo=med-connect&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en" /></a></div><br />
 <div width="100%" align="center"><a href="https://github.com/marwaoneis/task-manager-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marwaoneis&repo=task-manager-project&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en" /></a></div>
 </p>
 <br /><br /><br /><br /><br /><br />

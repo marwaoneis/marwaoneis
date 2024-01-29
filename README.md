@@ -65,7 +65,7 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 
 # Socials <img src="assets/hello.gif" width="40">
 
-<p align="left"> <a href="https://www.linkedin.com/in/marwaoneis/"><img align="left" src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/linkedin.svg" alt="Marwa | LinkedIn" width="21px"/></a> <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/github.svg" alt="Marwa | Github" width="21px"/></a> <a href="https://www.instagram.com/marwaoneis/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Marwa | Instagram" width="21px"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/marwaoneis/"><img align="left" src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/linkedin.svg" alt="Marwa | LinkedIn" width="30px"/></a> <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/github.svg" alt="Marwa | Github" width="30px"/></a> <a href="https://www.instagram.com/marwaoneis/"><img align="left" src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/instagram.svg" alt="Marwa | Instagram" width="30px"/></a> </p>
 
 # Stats <img src="assets/stats.gif" width="40">
 <p align="center">
@@ -85,7 +85,7 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 <b>Top Repositories</b>
 
 <p align="center">
-<div width="100%" align="center"><a href="https://github.com/marwaoneis/med-connect" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marwaoneis&repo=med-connect&title_color=BF40BF&text_color=ffffff&icon_color=BF40BF&bg_color=171717&hide_border=true&locale=en" /></a></div><br />
-<div width="100%" align="center"><a href="https://github.com/marwaoneis/task-manager-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marwaoneis&repo=task-manager-project&title_color=BF40BF&text_color=ffffff&icon_color=BF40BF&bg_color=171717&hide_border=true&locale=en" /></a></div>
+  <div width="100%" align="center"><a href="https://github.com/marwaoneis/med-connect" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marwaoneis&repo=med-connect&title_color=BF40BF&text_color=ffffff&icon_color=BF40BF&bg_color=171717&hide_border=true&locale=en" /></a></div><br />
+  <div width="100%" align="center"><a href="https://github.com/marwaoneis/task-manager-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marwaoneis&repo=task-manager-project&title_color=BF40BF&text_color=ffffff&icon_color=BF40BF&bg_color=171717&hide_border=true&locale=en" /></a></div>
 </p>
 <br /><br /><br /><br /><br /><br />

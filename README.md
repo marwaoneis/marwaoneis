@@ -37,7 +37,6 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/> - <img height="20px" src="https://img.shields.io/badge/Library-505558"/></h3>
 <div style="display:flex"> 
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
@@ -47,7 +46,7 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 <div style="display:flex"> 
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"> 
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 <hr>
 
@@ -56,18 +55,17 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/Coda-%233D4D58.svg?style=for-the-badge&logo=coda&logoColor=white">
 </div>
 <hr>
 
-# Socials <img src="assets/hello.gif" width="40">
+# Connect with me 🤝 >
 
 <p align="left"> <a href="https://www.linkedin.com/in/marwaoneis/"><img  src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/linkedin.svg" alt="Marwa | LinkedIn" width="30px"/></a> <a href="https://www.linkedin.com/in/marwaoneis/"><img src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/github.svg" alt="Marwa | Github" width="30px"/></a> <a href="https://www.instagram.com/marwaoneis/"><img src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/instagram.svg" alt="Marwa | Instagram" width="30px"/></a></p>
 
-# Stats <img src="assets/stats.gif" width="40">
+# Github Stats 📈>
 <p align="center">
    <table>
       <tr>

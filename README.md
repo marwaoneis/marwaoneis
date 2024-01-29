@@ -83,7 +83,7 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 <b>Top Repositories</b>
 
 <p align="center">
-  <div width="100%" align="center"><a href="https://github.com/marwaoneis/med-connect"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marwaoneis&repo=med-connect&title_color=BF40BF&text_color=ffffff&icon_color=BF40BF&bg_color=171717&hide_border=true&locale=en" /></a></div><br />
-  <div width="100%" align="center"><a href="https://github.com/marwaoneis/task-manager-project"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marwaoneis&repo=task-manager-project&title_color=BF40BF&text_color=ffffff&icon_color=BF40BF&bg_color=171717&hide_border=true&locale=en" /></a></div>
+  <div width="100%"><a href="https://github.com/marwaoneis/med-connect"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marwaoneis&repo=med-connect&title_color=BF40BF&text_color=ffffff&icon_color=BF40BF&bg_color=171717&hide_border=true&locale=en" /></a></div>
+  <div width="100%"><a href="https://github.com/marwaoneis/task-manager-project"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marwaoneis&repo=task-manager-project&title_color=BF40BF&text_color=ffffff&icon_color=BF40BF&bg_color=171717&hide_border=true&locale=en" /></a></div>
 </p>
 <br /><br /><br /><br /><br /><br />

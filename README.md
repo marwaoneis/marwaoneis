@@ -65,7 +65,7 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 
 # Socials <img src="assets/hello.gif" width="40">
 
-<p align="left"> <a href="https://www.linkedin.com/in/marwaoneis/"><img  src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/linkedin.svg" alt="Marwa | LinkedIn" width="30px"/></a> <a href="https://www.linkedin.com/in/yushi95/"><img src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/github.svg" alt="Marwa | Github" width="30px"/></a> <a href="https://www.instagram.com/marwaoneis/"><img src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/instagram.svg" alt="Marwa | Instagram" width="30px"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/marwaoneis/"><img  src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/linkedin.svg" alt="Marwa | LinkedIn" width="30px"/></a> <a href="https://www.linkedin.com/in/marwaoneis/"><img src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/github.svg" alt="Marwa | Github" width="30px"/></a> <a href="https://www.instagram.com/marwaoneis/"><img src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/instagram.svg" alt="Marwa | Instagram" width="30px"/></a></p>
 
 # Stats <img src="assets/stats.gif" width="40">
 <p align="center">

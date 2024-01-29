@@ -26,16 +26,16 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 ## Connect with me:
 <p align="center">
   <a href="https://github.com/marwaoneis">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" style="height: 40px; width: 40px; margin: 5px; filter: drop-shadow(2px 4px 6px black);">
+    <img src="https://user-images.githubusercontent.com/marwaoneis/marwaoneis/github-icon-colorful.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.linkedin.com/in/marwaoneis/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" style="height: 40px; width: 40px; margin: 5px; filter: drop-shadow(2px 4px 6px blue);">
+    <img src="https://user-images.githubusercontent.com/marwaoneis/marwaoneis/linkedin-icon-colorful.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.instagram.com/marwaoneis/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" style="height: 40px; width: 40px; margin: 5px; filter: drop-shadow(2px 4px 6px pink);">
+    <img src="https://user-images.githubusercontent.com/marwaoneis/marwaoneis/instagram-icon-colorful.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://twitter.com/MarwaGOneis">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" style="height: 40px; width: 40px; margin: 5px; filter: drop-shadow(2px 4px 6px skyblue);">
+    <img src="https://user-images.githubusercontent.com/marwaoneis/marwaoneis/twitter-icon-colorful.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
 

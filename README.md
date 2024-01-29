@@ -65,7 +65,7 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 
 # Socials <img src="assets/hello.gif" width="40">
 
-<p align="left"> <a href="https://www.github.com/marwaoneis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwaoneis/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/marwaoneis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwaoneis/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Murf_y" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwaoneis/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/marwaoneis/"><img align="left" src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/linkedin.svg" alt="Marwa | LinkedIn" width="21px"/></a> <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/marwaoneis/marwaoneis/main/github.svg" alt="Marwa | Github" width="21px"/></a> <a href="https://www.instagram.com/marwaoneis/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Marwa | Instagram" width="21px"/></a></p>
 
 # Stats <img src="assets/stats.gif" width="40">
 <p align="center">

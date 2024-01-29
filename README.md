@@ -57,11 +57,12 @@ A passionate frontend developer based in Lebanon. Armed with a degree in Compute
 <h3><img height="20px" src="https://img.shields.io/badge/Tool-6c598f"/></h3>
 <div style="display:flex"> 
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/jira.svg?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Coda-%233D4D58.svg?style=for-the-badge&logo=coda&logoColor=white">
 </div>
 <hr>
 

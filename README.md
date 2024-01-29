@@ -1,7 +1,7 @@
 ![Technologies and Development](https://github.com/marwaoneis/marwaoneis/blob/main/mygithub-header-image.png)
 
-# Hi there 👋, I'm Marwa
-A passionate frontend developer based in Lebanon. Armed with a degree in Computer Engineering, I've been crafting user-centric web experiences for the past two years.
+# Hi there 👋, 
+I'm a passionate frontend developer based in Lebanon. Armed with a degree in Computer Engineering, I've been crafting user-centric web experiences for the past two years.
 
 🚀 I'm not just a developer; I'm a perpetual student, always hungry for the next challenge and eager to dive into new technologies that push the boundaries of what's possible on the web.
 
